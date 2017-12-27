@@ -1,0 +1,8 @@
+div#messages p {
+        font-family: monospace;
+        float: none;
+        height: auto;
+        width: 15em;
+        shape-outside: circle();
+        background-color: LightBlue;
+}
